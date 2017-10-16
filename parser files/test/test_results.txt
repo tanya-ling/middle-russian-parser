@@ -1,0 +1,178 @@
+<w>житіѥ</w>
+<w>прдбнаго</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>и</w>
+<w>бг҃оноснаго</w>
+<w><ana lex="отецъ" gr="S,m,du,acc"></ana><ana lex="отецъ" gr="S,m,du,nom"></ana><ana lex="отецъ" gr="S,m,du,voc"></ana><ana lex="отецъ" gr="S,m,sg,acc"></ana><ana lex="отецъ" gr="S,m,sg,gen"></ana>ѿц҃а</w>
+<w>нш҃ег</w>
+<w><ana lex="игуменъ" gr="S,m,du,acc"></ana><ana lex="игуменъ" gr="S,m,du,nom"></ana><ana lex="игуменъ" gr="S,m,du,voc"></ana><ana lex="игуменъ" gr="S,m,pl,nom"></ana><ana lex="игуменъ" gr="S,m,sg,acc"></ana><ana lex="игуменъ" gr="S,m,sg,gen"></ana>ігꙋмена</w>
+<w><ana lex="сергий" gr="S,m,persn,du,acc"></ana><ana lex="сергий" gr="S,m,persn,du,nom"></ana><ana lex="сергий" gr="S,m,persn,du,voc"></ana><ana lex="сергий" gr="S,m,persn,sg,acc"></ana><ana lex="сергий" gr="S,m,persn,sg,gen"></ana>сергїѧ</w>
+<w><ana lex="чудотворецъ" gr="S,m,du,acc"></ana><ana lex="чудотворецъ" gr="S,m,du,nom"></ana><ana lex="чудотворецъ" gr="S,m,du,voc"></ana><ana lex="чудотворецъ" gr="S,m,sg,acc"></ana><ana lex="чудотворецъ" gr="S,m,sg,gen"></ana>чюдотвор꙽ца</w>
+<w>списано</w>
+<w><ana lex="быти" gr="SPRO,analyt,indic,aor,sg,2p"></ana><ana lex="быти" gr="SPRO,analyt,indic,aor,sg,3p"></ana><ana lex="быти" gr="SPRO,indic,aor,sg,2p"></ana><ana lex="быти" gr="SPRO,inf"></ana>бысть</w>
+<w><ana lex="отъ" gr="PR"></ana>ѿ</w>
+<w>премдрѣішаг</w>
+<w><ana lex="епифаний" gr="S,m,persn,du,acc"></ana><ana lex="епифаний" gr="S,m,persn,du,nom"></ana><ana lex="епифаний" gr="S,m,persn,du,voc"></ana><ana lex="епифаний" gr="S,m,persn,sg,acc"></ana><ana lex="епифаний" gr="S,m,persn,sg,gen"></ana>епиѳанїѧ</w>
+<w>.</w>
+<w><ana lex="предисловие" gr="S,n,sg,acc"></ana><ana lex="предисловие" gr="S,n,sg,nom"></ana>Предислѡвие</w>
+<w>.</w>
+<w><ana lex="слава" gr="S,f,sg,nom"></ana><ana lex="слава" gr="S,f,sg,voc"></ana>слава</w>
+<w>бг҃ꙋ</w>
+<w><ana lex="о" gr="INTJ"></ana><ana lex="о" gr="PR"></ana>о</w>
+<w><ana lex="весь" gr="A-PRO,pl,dat,brev"></ana><ana lex="весь" gr="A-PRO,sg,m,ins,brev"></ana><ana lex="весь" gr="A-PRO,sg,m,loc"></ana><ana lex="весь" gr="A-PRO,sg,m,loc,brev"></ana><ana lex="весь" gr="A-PRO,sg,n,ins,brev"></ana><ana lex="весь" gr="A-PRO,sg,n,loc"></ana><ana lex="весь" gr="A-PRO,sg,n,loc,brev"></ana>всемъ</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w><ana lex="всяческий" gr="A,pl,f,gen"></ana><ana lex="всяческий" gr="A,pl,f,loc"></ana><ana lex="всяческий" gr="A,pl,m,gen"></ana><ana lex="всяческий" gr="A,pl,m,loc"></ana><ana lex="всяческий" gr="A,pl,n,gen"></ana><ana lex="всяческий" gr="A,pl,n,loc"></ana><ana lex="всяческий" gr="A-PRO,pl,gen,brev"></ana><ana lex="всяческий" gr="A-PRO,pl,loc,brev"></ana>всѧческих</w>
+<w><ana lex="ради" gr="PR"></ana><ana lex="радити" gr="V,pf,tran,imper,sg,2p"></ana><ana lex="радити" gr="V,pf,tran,imper,sg,3p"></ana><ana lex="радъ" gr="A,du,f,acc,brev"></ana><ana lex="радъ" gr="A,du,f,nom,brev"></ana><ana lex="радъ" gr="A,du,n,acc,brev"></ana><ana lex="радъ" gr="A,du,n,nom,brev"></ana><ana lex="радъ" gr="A,pl,f,acc,brev"></ana><ana lex="радъ" gr="A,pl,f,nom,brev"></ana><ana lex="радъ" gr="A,pl,m,acc,brev"></ana><ana lex="радъ" gr="A,pl,m,nom,brev"></ana><ana lex="радъ" gr="A,sg,f,dat,brev"></ana><ana lex="радъ" gr="A,sg,f,gen,brev"></ana><ana lex="радъ" gr="A,sg,f,loc,brev"></ana><ana lex="радъ" gr="A,sg,m,loc,brev"></ana><ana lex="радъ" gr="A,sg,n,loc,brev"></ana><ana lex="родити" gr="V,pf,intran,med,imper,sg,2p"></ana><ana lex="родити" gr="V,pf,intran,med,imper,sg,3p"></ana>ради</w>
+<w><ana lex="о" gr="INTJ"></ana><ana lex="о" gr="PR"></ana>о</w>
+<w>них꙽же</w>
+<w><ana lex="всегда" gr="ADV"></ana>всегда</w>
+<w><ana lex="прославляти" gr="V,ipf,intran,med,indic,praes,sg,3p"></ana>прославѧет</w>
+<w><ana lex="себя" gr="SPRO,acc"></ana><ana lex="сей" gr="A-PRO,du,f,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,f,nom,brev"></ana><ana lex="сей" gr="A-PRO,du,m,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,m,nom,brev"></ana><ana lex="сей" gr="A-PRO,du,n,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,n,nom,brev"></ana><ana lex="сей" gr="A-PRO,pl,f,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,f,nom,brev"></ana><ana lex="сей" gr="A-PRO,pl,m,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,n,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,n,nom,brev"></ana><ana lex="сей" gr="A-PRO,sg,f,nom,brev"></ana><ana lex="ся" gr="V"></ana>сѧ</w>
+<w><ana lex="великий" gr="A,sg,n,acc"></ana><ana lex="великий" gr="A,sg,n,nom"></ana><ana lex="великъ" gr="A,sg,n,acc"></ana><ana lex="великъ" gr="A,sg,n,nom"></ana>великое</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w><ana lex="трисвятый" gr="A,sg,f,gen"></ana><ana lex="трисвятый" gr="A,sg,n,acc"></ana><ana lex="трисвятый" gr="A,sg,n,nom"></ana>трист҃ое</w>
+<w><ana lex="имати" gr="V,indic,aor,sg,2p"></ana><ana lex="имати" gr="V,indic,aor,sg,3p"></ana><ana lex="имя" gr="S,n,sg,acc"></ana><ana lex="имя" gr="S,n,sg,nom"></ana>имѧ</w>
+<w><ana lex="еже" gr="CONJ"></ana>еж</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w>прсно</w>
+<w>прославлѧемо</w>
+<w><ana lex="быти" gr="SPRO,indic,praes,sg,3p"></ana><ana lex="ясти" gr="V,ipf,intran,med,indic,praes,sg,3p"></ana><ana lex="ясти" gr="V,ipf,intran,med,inf"></ana><ana lex="ѣсти" gr="V,ipf,tran,indic,praes,sg,3p"></ana><ana lex="ѣсти" gr="V,ipf,tran,inf"></ana>есть</w>
+<w>.</w>
+<w><ana lex="слава" gr="S,f,sg,nom"></ana><ana lex="слава" gr="S,f,sg,voc"></ana>слава</w>
+<w>бг҃ꙋ</w>
+<w><ana lex="вышний" gr="A,sg,m,loc"></ana><ana lex="вышний" gr="A,sg,n,loc"></ana>вышнем</w>
+<w>иже</w>
+<w><ana lex="въ" gr="PR"></ana>въ</w>
+<w><ana lex="троица" gr="S,f,du,acc"></ana><ana lex="троица" gr="S,f,du,nom"></ana><ana lex="троица" gr="S,f,du,voc"></ana><ana lex="троица" gr="S,f,pl,acc"></ana><ana lex="троица" gr="S,f,pl,nom"></ana><ana lex="троица" gr="S,f,sg,gen"></ana>троцы</w>
+<w>славимомꙋ</w>
+<w><ana lex="еже" gr="CONJ"></ana><ana lex="ежъ" gr="S,m,sg,voc"></ana>еже</w>
+<w><ana lex="быти" gr="SPRO,indic,praes,sg,3p"></ana><ana lex="ясти" gr="V,ipf,intran,med,indic,praes,sg,3p"></ana><ana lex="ясти" gr="V,ipf,intran,med,inf"></ana><ana lex="ѣсти" gr="V,ipf,tran,indic,praes,sg,3p"></ana><ana lex="ѣсти" gr="V,ipf,tran,inf"></ana>есть</w>
+<w><ana lex="упование" gr="S,n,sg,acc"></ana><ana lex="упование" gr="S,n,sg,nom"></ana>ѹпованїе</w>
+<w><ana lex="нашъ" gr="A-PRO,du,f,acc,brev"></ana><ana lex="нашъ" gr="A-PRO,du,f,nom,brev"></ana><ana lex="нашъ" gr="A-PRO,du,n,acc,brev"></ana><ana lex="нашъ" gr="A-PRO,du,n,nom,brev"></ana><ana lex="нашъ" gr="A-PRO,sg,n,acc,brev"></ana><ana lex="нашъ" gr="A-PRO,sg,n,nom,brev"></ana>наше</w>
+<w><ana lex="свѣтъ" gr="S,m,sg,acc"></ana><ana lex="свѣтъ" gr="S,m,sg,nom"></ana><ana lex="свѣтъ" gr="S,m,sg,voc"></ana>свѣт</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>и</w>
+<w><ana lex="животъ" gr="S,m,sg,acc"></ana><ana lex="животъ" gr="S,m,sg,nom"></ana><ana lex="животъ" gr="S,m,sg,voc"></ana>живот</w>
+<w><ana lex="нашъ" gr="A-PRO,sg,m,acc,brev"></ana><ana lex="нашъ" gr="A-PRO,sg,m,nom,brev"></ana>нашь</w>
+<w><ana lex="въ" gr="PR"></ana>в</w>
+<w>негож</w>
+<w><ana lex="вѣровати" gr="V,ipf,intran,med,imper,pl,1p"></ana><ana lex="вѣровати" gr="V,ipf,intran,med,indic,praes,pl,1p"></ana>вѣрꙋем</w>
+<w><ana lex="въ" gr="PR"></ana>в</w>
+<w><ana lex="овенъ" gr="S,m,sg,acc"></ana><ana lex="овенъ" gr="S,m,sg,nom"></ana><ana lex="овенъ" gr="S,m,sg,voc"></ana><ana lex="онъ" gr="S,m,pl,acc"></ana><ana lex="онъ" gr="S,m,pl,gen"></ana><ana lex="оный" gr="A-PRO,sg,m,acc,brev"></ana><ana lex="оный" gr="A-PRO,sg,m,nom,brev"></ana>он</w>
+<w><ana lex="же" gr="PART"></ana><ana lex="жечи" gr="V,indic,aor,sg,2p"></ana><ana lex="жечи" gr="V,indic,aor,sg,3p"></ana><ana lex="жещи" gr="V,ipf,tran,indic,aor,sg,2p"></ana><ana lex="жещи" gr="V,ipf,tran,indic,aor,sg,3p"></ana>же</w>
+<w><ana lex="крестити" gr="V,indic,aor,pl,1p"></ana><ana lex="крестити" gr="V,indic,imperf,pl,1p"></ana><ana lex="крестити" gr="V,pf/ipf,intran,med,indic,aor,pl,1p"></ana>крстихом</w>
+<w><ana lex="себя" gr="SPRO,acc"></ana><ana lex="сей" gr="A-PRO,du,f,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,f,nom,brev"></ana><ana lex="сей" gr="A-PRO,du,m,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,m,nom,brev"></ana><ana lex="сей" gr="A-PRO,du,n,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,n,nom,brev"></ana><ana lex="сей" gr="A-PRO,pl,f,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,f,nom,brev"></ana><ana lex="сей" gr="A-PRO,pl,m,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,n,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,n,nom,brev"></ana><ana lex="сей" gr="A-PRO,sg,f,nom,brev"></ana><ana lex="ся" gr="V"></ana>сѧ</w>
+<w><ana lex="о" gr="INTJ"></ana><ana lex="о" gr="PR"></ana>о</w>
+<w>нем꙽же</w>
+<w><ana lex="живый" gr="A,sg,m,loc"></ana><ana lex="живый" gr="A,sg,n,loc"></ana><ana lex="жити" gr="V,ipf,intran,imper,pl,1p"></ana><ana lex="жити" gr="V,ipf,intran,indic,praes,pl,1p"></ana>живемъ</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w>движем</w>
+<w><ana lex="себя" gr="SPRO,acc"></ana><ana lex="сей" gr="A-PRO,du,f,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,f,nom,brev"></ana><ana lex="сей" gr="A-PRO,du,m,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,m,nom,brev"></ana><ana lex="сей" gr="A-PRO,du,n,acc,brev"></ana><ana lex="сей" gr="A-PRO,du,n,nom,brev"></ana><ana lex="сей" gr="A-PRO,pl,f,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,f,nom,brev"></ana><ana lex="сей" gr="A-PRO,pl,m,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,n,acc,brev"></ana><ana lex="сей" gr="A-PRO,pl,n,nom,brev"></ana><ana lex="сей" gr="A-PRO,sg,f,nom,brev"></ana><ana lex="ся" gr="V"></ana>сѧ</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w><ana lex="быти" gr="SPRO,indic,praes,pl,1p"></ana>есмы</w>
+<w>.</w>
+<w><ana lex="слава" gr="S,f,sg,nom"></ana><ana lex="слава" gr="S,f,sg,voc"></ana>слава</w>
+<w>показавшемꙋ</w>
+<w><ana lex="мы" gr="SPRO,pl,dat"></ana>намъ</w>
+<w><ana lex="житие" gr="S,n,sg,acc"></ana><ana lex="житие" gr="S,n,sg,nom"></ana>житїе</w>
+<w><ana lex="мужати" gr="V,ipf,intran,med,indic,aor,sg,2p"></ana><ana lex="мужати" gr="V,ipf,intran,med,indic,aor,sg,3p"></ana><ana lex="мужъ" gr="S,m,du,acc"></ana><ana lex="мужъ" gr="S,m,du,nom"></ana><ana lex="мужъ" gr="S,m,du,voc"></ana><ana lex="мужъ" gr="S,m,sg,acc"></ana><ana lex="мужъ" gr="S,m,sg,gen"></ana>мꙋжа</w>
+<w><ana lex="святый" gr="A,du,m,acc,brev"></ana><ana lex="святый" gr="A,du,m,nom,brev"></ana><ana lex="святый" gr="A,pl,n,acc,brev"></ana><ana lex="святый" gr="A,pl,n,nom,brev"></ana><ana lex="святый" gr="A,sg,f,nom,brev"></ana><ana lex="святый" gr="A,sg,m,acc,brev,anim"></ana><ana lex="святый" gr="A,sg,m,gen,brev"></ana><ana lex="святый" gr="A,sg,n,gen,brev"></ana><ana lex="свѣтый" gr="A,du,m,acc,brev"></ana><ana lex="свѣтый" gr="A,du,m,nom,brev"></ana><ana lex="свѣтый" gr="A,pl,n,acc,brev"></ana><ana lex="свѣтый" gr="A,pl,n,nom,brev"></ana><ana lex="свѣтый" gr="A,sg,f,nom,brev"></ana><ana lex="свѣтый" gr="A,sg,m,acc,brev,anim"></ana><ana lex="свѣтый" gr="A,sg,m,gen,brev"></ana><ana lex="свѣтый" gr="A,sg,n,gen,brev"></ana><ana lex="сотъ" gr="S,m,du,acc"></ana><ana lex="сотъ" gr="S,m,du,nom"></ana><ana lex="сотъ" gr="S,m,du,voc"></ana><ana lex="сотъ" gr="S,m,pl,nom"></ana><ana lex="сотъ" gr="S,m,sg,acc"></ana><ana lex="сотъ" gr="S,m,sg,gen"></ana><ana lex="стати" gr="V,indic,aor,sg,2p"></ana><ana lex="стати" gr="V,indic,aor,sg,3p"></ana><ana lex="стати" gr="V,pf,intran,med,indic,aor,sg,2p"></ana><ana lex="стати" gr="V,pf,intran,med,indic,aor,sg,3p"></ana><ana lex="стаяти" gr="V,indic,aor,sg,2p"></ana><ana lex="стаяти" gr="V,indic,aor,sg,3p"></ana><ana lex="сто" gr="NUM,du,acc"></ana><ana lex="сто" gr="NUM,du,nom"></ana><ana lex="сто" gr="NUM,du,voc"></ana><ana lex="сто" gr="NUM,pl,acc"></ana><ana lex="сто" gr="NUM,pl,nom"></ana><ana lex="сто" gr="NUM,sg,acc"></ana><ana lex="сто" gr="NUM,sg,gen"></ana><ana lex="сто" gr="NUM,sg,nom"></ana><ana lex="сто" gr="NUM,sg,voc"></ana>ст҃а</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w><ana lex="старецъ" gr="S,m,du,acc"></ana><ana lex="старецъ" gr="S,m,du,nom"></ana><ana lex="старецъ" gr="S,m,du,voc"></ana><ana lex="старецъ" gr="S,m,sg,acc"></ana><ana lex="старецъ" gr="S,m,sg,gen"></ana>старца</w>
+<w><ana lex="духовный" gr="A,du,m,acc,brev"></ana><ana lex="духовный" gr="A,du,m,nom,brev"></ana><ana lex="духовный" gr="A,pl,n,acc,brev"></ana><ana lex="духовный" gr="A,pl,n,nom,brev"></ana><ana lex="духовный" gr="A,sg,f,nom,brev"></ana><ana lex="духовный" gr="A,sg,m,acc,brev,anim"></ana><ana lex="духовный" gr="A,sg,m,gen,brev"></ana><ana lex="духовный" gr="A,sg,n,gen,brev"></ana>дх҃овна</w>
+<w>.</w>
+<w><ana lex="вѣдѣти" gr="V,indic,praes,sg,3p"></ana><ana lex="вѣдѣти" gr="V,inf"></ana><ana lex="вѣсть" gr="S,f,sg,acc"></ana><ana lex="вѣсть" gr="S,f,sg,nom"></ana>вѣсть</w>
+<w><ana lex="бо" gr="PART"></ana>бо</w>
+<w>г҃ь</w>
+<w><ana lex="славити" gr="V,inf"></ana><ana lex="славити" gr="V,ipf,intran,med,inf"></ana><ana lex="сславити" gr="V,ipf,tran,inf"></ana>славити</w>
+<w>славѧщаѧ</w>
+<w>ег</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>и</w>
+<w><ana lex="благословляти" gr="V,inf"></ana><ana lex="благословляти" gr="V,ipf,intran,med,inf"></ana>блгсвѧти</w>
+<w>бл҃гословѧщаѧ</w>
+<w>ег</w>
+<w><ana lex="еже" gr="CONJ"></ana><ana lex="ежъ" gr="S,m,sg,voc"></ana>еже</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>и</w>
+<w>прсно</w>
+<w><ana lex="прославляти" gr="V,indic,praes,sg,3p"></ana><ana lex="прославляти" gr="V,ipf,intran,med,indic,praes,sg,3p"></ana>прославлѧет</w>
+<w><ana lex="свой" gr="A-PRO,du,f,acc,brev"></ana><ana lex="свой" gr="A-PRO,du,f,nom,brev"></ana><ana lex="свой" gr="A-PRO,du,m,acc,brev"></ana><ana lex="свой" gr="A-PRO,du,m,nom,brev"></ana><ana lex="свой" gr="A-PRO,du,n,acc,brev"></ana><ana lex="свой" gr="A-PRO,du,n,nom,brev"></ana><ana lex="свой" gr="A-PRO,pl,f,acc,brev"></ana><ana lex="свой" gr="A-PRO,pl,f,nom,brev"></ana><ana lex="свой" gr="A-PRO,pl,m,acc,brev"></ana><ana lex="свой" gr="A-PRO,pl,n,acc,brev"></ana><ana lex="свой" gr="A-PRO,pl,n,nom,brev"></ana><ana lex="свой" gr="A-PRO,sg,f,gen,brev"></ana><ana lex="свой" gr="A-PRO,sg,f,nom,brev"></ana>своѧ</w>
+<w><ana lex="угодникъ" gr="S,m,pl,acc"></ana><ana lex="угодникъ" gr="S,m,pl,ins"></ana><ana lex="угодникъ" gr="S,m,pl,nom"></ana>ѹгоднїки</w>
+<w>славѧщаѧ</w>
+<w><ana lex="оно" gr="SPRO,sg,acc"></ana><ana lex="оно" gr="SPRO,sg,gen"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,gen"></ana>его</w>
+<w><ana lex="житие" gr="S,n,pl,dat"></ana><ana lex="житие" gr="S,n,sg,ins"></ana>житїем</w>
+<w><ana lex="чистый" gr="A,pl,f,dat"></ana><ana lex="чистый" gr="A,pl,m,dat"></ana><ana lex="чистый" gr="A,pl,n,dat"></ana><ana lex="чистый" gr="A,sg,m,ins"></ana><ana lex="чистый" gr="A,sg,n,ins"></ana>чистым</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>и</w>
+<w><ana lex="богугодный" gr="A,pl,f,dat"></ana><ana lex="богугодный" gr="A,pl,m,dat"></ana><ana lex="богугодный" gr="A,pl,n,dat"></ana><ana lex="богугодный" gr="A,sg,m,ins"></ana><ana lex="богугодный" gr="A,sg,n,ins"></ana>б҃гоѹгодным</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w><ana lex="добродѣтельный" gr="A,pl,f,dat"></ana><ana lex="добродѣтельный" gr="A,pl,m,dat"></ana><ana lex="добродѣтельный" gr="A,pl,n,dat"></ana><ana lex="добродѣтельный" gr="A,sg,m,ins"></ana><ana lex="добродѣтельный" gr="A,sg,n,ins"></ana>добродѣтел꙽ным</w>
+<w>.</w>
+<w><ana lex="благодарити" gr="V,ipf,intran,med,imper,pl,1p"></ana><ana lex="благодарити" gr="V,ipf,intran,med,indic,praes,pl,1p"></ana>бл҃годарим</w>
+<w>б҃га</w>
+<w><ana lex="за" gr="PR"></ana>за</w>
+<w><ana lex="премногий" gr="A,du,f,gen"></ana><ana lex="премногий" gr="A,du,f,loc"></ana><ana lex="премногий" gr="A,du,m,acc,anim"></ana><ana lex="премногий" gr="A,du,m,gen"></ana><ana lex="премногий" gr="A,du,m,loc"></ana><ana lex="премногий" gr="A,du,n,gen"></ana><ana lex="премногий" gr="A,du,n,loc"></ana><ana lex="премногий" gr="A,sg,f,acc"></ana>премногꙋю</w>
+<w><ana lex="оно" gr="SPRO,sg,acc"></ana><ana lex="оно" gr="SPRO,sg,gen"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,gen"></ana>его</w>
+<w>блгсть</w>
+<w><ana lex="бывший" gr="A,du,f,gen"></ana><ana lex="бывший" gr="A,du,f,loc"></ana><ana lex="бывший" gr="A,du,m,acc,anim"></ana><ana lex="бывший" gr="A,du,m,gen"></ana><ana lex="бывший" gr="A,du,m,loc"></ana><ana lex="бывший" gr="A,du,n,gen"></ana><ana lex="бывший" gr="A,du,n,loc"></ana><ana lex="бывший" gr="A,sg,f,acc"></ana>бывшꙋю</w>
+<w><ana lex="мы" gr="SPRO,du,acc"></ana><ana lex="на" gr="PR"></ana>на</w>
+<w><ana lex="мы" gr="SPRO,pl,acc"></ana><ana lex="мы" gr="SPRO,pl,gen"></ana><ana lex="мы" gr="SPRO,pl,loc"></ana>насъ</w>
+<w><ana lex="який" gr="A-PRO,sg,n,acc,brev"></ana><ana lex="який" gr="A-PRO,sg,n,nom,brev"></ana><ana lex="якоже" gr="CONJ"></ana>ꙗкоже</w>
+<w><ana lex="бывший" gr="A,du,f,gen"></ana><ana lex="бывший" gr="A,du,f,loc"></ana><ana lex="бывший" gr="A,du,m,acc,anim"></ana><ana lex="бывший" gr="A,du,m,gen"></ana><ana lex="бывший" gr="A,du,m,loc"></ana><ana lex="бывший" gr="A,du,n,gen"></ana><ana lex="бывший" gr="A,du,n,loc"></ana><ana lex="бывший" gr="A,sg,f,acc"></ana>бывшꙋю</w>
+<w><ana lex="мы" gr="SPRO,du,acc"></ana><ana lex="на" gr="PR"></ana>на</w>
+<w><ana lex="мы" gr="SPRO,pl,acc"></ana><ana lex="мы" gr="SPRO,pl,gen"></ana><ana lex="мы" gr="SPRO,pl,loc"></ana>насъ</w>
+<w><ana lex="який" gr="A-PRO,sg,n,acc,brev"></ana><ana lex="який" gr="A-PRO,sg,n,nom,brev"></ana><ana lex="якоже" gr="CONJ"></ana>ꙗкоже</w>
+<w><ana lex="рещи" gr="V,indic,aor,sg,2p"></ana><ana lex="рещи" gr="V,indic,aor,sg,3p"></ana><ana lex="рещи" gr="V,pf,intran,med,indic,aor,sg,2p"></ana><ana lex="рещи" gr="V,pf,intran,med,indic,aor,sg,3p"></ana><ana lex="рѣчь" gr="S,f,sg,voc"></ana>рече</w>
+<w><ana lex="апостолъ" gr="S,m,sg,acc"></ana><ana lex="апостолъ" gr="S,m,sg,nom"></ana><ana lex="апостолъ" gr="S,m,sg,voc"></ana>апслъ</w>
+<w>.</w>
+<w><ana lex="благодать" gr="S,f,sg,acc"></ana><ana lex="благодать" gr="S,f,sg,nom"></ana><ana lex="благодѣть" gr="S,f,sg,acc"></ana><ana lex="благодѣть" gr="S,f,sg,nom"></ana>блгдть</w>
+<w>бг҃ꙋ</w>
+<w><ana lex="о" gr="INTJ"></ana><ana lex="о" gr="PR"></ana>о</w>
+<w><ana lex="неизреченный" gr="A,sg,m,loc"></ana><ana lex="неизреченный" gr="A,sg,n,loc"></ana>неизреченнѣм</w>
+<w>ег</w>
+<w><ana lex="даръ" gr="S,m,sg,loc"></ana>дарѣ</w>
+<w>.</w>
+<w><ana lex="паче" gr="ADV"></ana>паче</w>
+<w><ana lex="же" gr="PART"></ana><ana lex="жечи" gr="V,indic,aor,sg,2p"></ana><ana lex="жечи" gr="V,indic,aor,sg,3p"></ana><ana lex="жещи" gr="V,ipf,tran,indic,aor,sg,2p"></ana><ana lex="жещи" gr="V,ipf,tran,indic,aor,sg,3p"></ana>же</w>
+<w><ana lex="нынѣ" gr="ADV"></ana>нн҃ѣ</w>
+<w><ana lex="должный" gr="A,pl,m,nom,brev"></ana>долъжни</w>
+<w><ana lex="быти" gr="SPRO,indic,praes,pl,1p"></ana>ес꙽мы</w>
+<w><ana lex="благодарити" gr="V,inf"></ana><ana lex="благодарити" gr="V,ipf,intran,med,inf"></ana>бл҃годарити</w>
+<w>бг҃а</w>
+<w><ana lex="о" gr="INTJ"></ana><ana lex="о" gr="PR"></ana>о</w>
+<w><ana lex="весь" gr="A-PRO,pl,dat,brev"></ana><ana lex="весь" gr="A-PRO,sg,m,ins,brev"></ana><ana lex="весь" gr="A-PRO,sg,m,loc"></ana><ana lex="весь" gr="A-PRO,sg,m,loc,brev"></ana><ana lex="весь" gr="A-PRO,sg,n,ins,brev"></ana><ana lex="весь" gr="A-PRO,sg,n,loc"></ana><ana lex="весь" gr="A-PRO,sg,n,loc,brev"></ana>всемъ</w>
+<w><ana lex="еже" gr="CONJ"></ana>еж</w>
+<w><ana lex="даровати" gr="V,pf/ipf,tran,indic,aor,sg,2p"></ana><ana lex="даровати" gr="V,pf/ipf,tran,indic,aor,sg,3p"></ana><ana lex="даровый" gr="A,du,m,acc,brev"></ana><ana lex="даровый" gr="A,du,m,nom,brev"></ana><ana lex="даровый" gr="A,pl,n,acc,brev"></ana><ana lex="даровый" gr="A,pl,n,nom,brev"></ana><ana lex="даровый" gr="A,sg,f,nom,brev"></ana><ana lex="даровый" gr="A,sg,m,acc,brev,anim"></ana><ana lex="даровый" gr="A,sg,m,gen,brev"></ana><ana lex="даровый" gr="A,sg,n,gen,brev"></ana>дарова</w>
+<w><ana lex="мы" gr="SPRO,pl,dat"></ana>нам</w>
+<w><ana lex="таковый" gr="A,du,m,acc,brev"></ana><ana lex="таковый" gr="A,du,m,nom,brev"></ana><ana lex="таковый" gr="A,pl,n,acc,brev"></ana><ana lex="таковый" gr="A,pl,n,nom,brev"></ana><ana lex="таковый" gr="A,sg,f,nom,brev"></ana><ana lex="таковый" gr="A,sg,m,acc,brev,anim"></ana><ana lex="таковый" gr="A,sg,m,gen,brev"></ana><ana lex="таковый" gr="A,sg,n,gen,brev"></ana><ana lex="таковый" gr="A-PRO,du,f,acc,brev"></ana><ana lex="таковый" gr="A-PRO,du,f,nom,brev"></ana><ana lex="таковый" gr="A-PRO,du,m,acc,brev"></ana><ana lex="таковый" gr="A-PRO,du,m,nom,brev"></ana><ana lex="таковый" gr="A-PRO,du,n,acc,brev"></ana><ana lex="таковый" gr="A-PRO,du,n,nom,brev"></ana><ana lex="таковый" gr="A-PRO,pl,n,acc,brev"></ana><ana lex="таковый" gr="A-PRO,pl,n,nom,brev"></ana><ana lex="таковый" gr="A-PRO,sg,f,nom,brev"></ana>такова</w>
+<w><ana lex="старецъ" gr="S,m,du,acc"></ana><ana lex="старецъ" gr="S,m,du,nom"></ana><ana lex="старецъ" gr="S,m,du,voc"></ana><ana lex="старецъ" gr="S,m,sg,acc"></ana><ana lex="старецъ" gr="S,m,sg,gen"></ana>старца</w>
+<w><ana lex="святый" gr="A,du,m,acc,brev"></ana><ana lex="святый" gr="A,du,m,nom,brev"></ana><ana lex="святый" gr="A,pl,n,acc,brev"></ana><ana lex="святый" gr="A,pl,n,nom,brev"></ana><ana lex="святый" gr="A,sg,f,nom,brev"></ana><ana lex="святый" gr="A,sg,m,acc,brev,anim"></ana><ana lex="святый" gr="A,sg,m,gen,brev"></ana><ana lex="святый" gr="A,sg,n,gen,brev"></ana><ana lex="свѣтый" gr="A,du,m,acc,brev"></ana><ana lex="свѣтый" gr="A,du,m,nom,brev"></ana><ana lex="свѣтый" gr="A,pl,n,acc,brev"></ana><ana lex="свѣтый" gr="A,pl,n,nom,brev"></ana><ana lex="свѣтый" gr="A,sg,f,nom,brev"></ana><ana lex="свѣтый" gr="A,sg,m,acc,brev,anim"></ana><ana lex="свѣтый" gr="A,sg,m,gen,brev"></ana><ana lex="свѣтый" gr="A,sg,n,gen,brev"></ana><ana lex="сотъ" gr="S,m,du,acc"></ana><ana lex="сотъ" gr="S,m,du,nom"></ana><ana lex="сотъ" gr="S,m,du,voc"></ana><ana lex="сотъ" gr="S,m,pl,nom"></ana><ana lex="сотъ" gr="S,m,sg,acc"></ana><ana lex="сотъ" gr="S,m,sg,gen"></ana><ana lex="стати" gr="V,indic,aor,sg,2p"></ana><ana lex="стати" gr="V,indic,aor,sg,3p"></ana><ana lex="стати" gr="V,pf,intran,med,indic,aor,sg,2p"></ana><ana lex="стати" gr="V,pf,intran,med,indic,aor,sg,3p"></ana><ana lex="стаяти" gr="V,indic,aor,sg,2p"></ana><ana lex="стаяти" gr="V,indic,aor,sg,3p"></ana><ana lex="сто" gr="NUM,du,acc"></ana><ana lex="сто" gr="NUM,du,nom"></ana><ana lex="сто" gr="NUM,du,voc"></ana><ana lex="сто" gr="NUM,pl,acc"></ana><ana lex="сто" gr="NUM,pl,nom"></ana><ana lex="сто" gr="NUM,sg,acc"></ana><ana lex="сто" gr="NUM,sg,gen"></ana><ana lex="сто" gr="NUM,sg,nom"></ana><ana lex="сто" gr="NUM,sg,voc"></ana>ст҃а</w>
+<w><ana lex="глаголати" gr="V,ipf,intran,med,indic,praes,sg,1p"></ana>гл҃ю</w>
+<w><ana lex="же" gr="PART"></ana><ana lex="жечи" gr="V,indic,aor,sg,2p"></ana><ana lex="жечи" gr="V,indic,aor,sg,3p"></ana><ana lex="жещи" gr="V,ipf,tran,indic,aor,sg,2p"></ana><ana lex="жещи" gr="V,ipf,tran,indic,aor,sg,3p"></ana>же</w>
+<w>г҃дина</w>
+<w><ana lex="преподобный" gr="A,sg,m,acc,anim"></ana><ana lex="преподобный" gr="A,sg,m,gen"></ana><ana lex="преподобный" gr="A,sg,n,gen"></ana>прпдбнаго</w>
+<w><ana lex="сергий" gr="S,m,persn,du,acc"></ana><ana lex="сергий" gr="S,m,persn,du,nom"></ana><ana lex="сергий" gr="S,m,persn,du,voc"></ana><ana lex="сергий" gr="S,m,persn,sg,acc"></ana><ana lex="сергий" gr="S,m,persn,sg,gen"></ana>сер꙽гїѧ</w>
+<w><ana lex="въ" gr="PR"></ana>в</w>
+<w><ana lex="земля" gr="S,f,du,acc"></ana><ana lex="земля" gr="S,f,du,nom"></ana><ana lex="земля" gr="S,f,du,voc"></ana><ana lex="земля" gr="S,f,pl,acc"></ana><ana lex="земля" gr="S,f,pl,nom"></ana><ana lex="земля" gr="S,f,sg,dat"></ana><ana lex="земля" gr="S,f,sg,gen"></ana><ana lex="земля" gr="S,f,sg,loc"></ana>земли</w>
+<w><ana lex="нашъ" gr="A-PRO,du,f,acc"></ana><ana lex="нашъ" gr="A-PRO,du,f,nom"></ana><ana lex="нашъ" gr="A-PRO,du,n,acc"></ana><ana lex="нашъ" gr="A-PRO,du,n,nom"></ana>нашеи</w>
+<w><ana lex="русский" gr="A,du,f,acc"></ana><ana lex="русский" gr="A,du,f,nom"></ana><ana lex="русский" gr="A,du,n,acc"></ana><ana lex="русский" gr="A,du,n,nom"></ana><ana lex="русский" gr="A,sg,m,nom,comp"></ana><ana lex="русский" gr="A,sg,m,nom,comp,brev"></ana><ana lex="русский" gr="A,sg,n,acc,comp"></ana><ana lex="русский" gr="A,sg,n,acc,comp,brev"></ana>рꙋстѣи</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w><ana lex="въ" gr="PR"></ana>в</w>
+<w><ana lex="страна" gr="S,f,du,acc"></ana><ana lex="страна" gr="S,f,du,nom"></ana><ana lex="страна" gr="S,f,du,voc"></ana><ana lex="страна" gr="S,f,sg,dat"></ana><ana lex="страна" gr="S,f,sg,loc"></ana><ana lex="странный" gr="A,du,f,acc,brev"></ana><ana lex="странный" gr="A,du,f,nom,brev"></ana><ana lex="странный" gr="A,du,n,acc,brev"></ana><ana lex="странный" gr="A,du,n,nom,brev"></ana><ana lex="странный" gr="A,sg,f,dat,brev"></ana><ana lex="странный" gr="A,sg,f,loc,brev"></ana><ana lex="странный" gr="A,sg,m,loc,brev"></ana><ana lex="странный" gr="A,sg,n,loc,brev"></ana>странѣ</w>
+<w><ana lex="нашъ" gr="A-PRO,du,f,acc"></ana><ana lex="нашъ" gr="A-PRO,du,f,nom"></ana><ana lex="нашъ" gr="A-PRO,du,n,acc"></ana><ana lex="нашъ" gr="A-PRO,du,n,nom"></ana>нашеи</w>
+<w><ana lex="полунощный" gr="A,du,f,acc"></ana><ana lex="полунощный" gr="A,du,f,nom"></ana><ana lex="полунощный" gr="A,du,n,acc"></ana><ana lex="полунощный" gr="A,du,n,nom"></ana><ana lex="полунощный" gr="A,sg,m,nom,comp"></ana><ana lex="полунощный" gr="A,sg,m,nom,comp,brev"></ana><ana lex="полунощный" gr="A,sg,n,acc,comp"></ana><ana lex="полунощный" gr="A,sg,n,acc,comp,brev"></ana>полꙋнощнеи</w>
+<w><ana lex="въ" gr="PR"></ana>во</w>
+<w><ana lex="день" gr="S,m,du,acc"></ana><ana lex="день" gr="S,m,du,nom"></ana><ana lex="день" gr="S,m,du,voc"></ana><ana lex="день" gr="S,m,pl,acc"></ana><ana lex="день" gr="S,m,sg,dat"></ana><ana lex="день" gr="S,m,sg,gen"></ana><ana lex="день" gr="S,m,sg,loc"></ana><ana lex="день" gr="S,m,sg,voc"></ana>дн҃и</w>
+<w>нш҃а</w>
+<w><ana lex="въ" gr="PR"></ana>в</w>
+<w><ana lex="послѣдний" gr="A,du,m,acc"></ana><ana lex="послѣдний" gr="A,du,m,nom"></ana><ana lex="послѣдний" gr="A,pl,n,acc"></ana><ana lex="послѣдний" gr="A,pl,n,nom"></ana><ana lex="послѣдний" gr="A,sg,f,nom"></ana>послѣднѧа</w>
+<w><ana lex="временный" gr="A,du,m,acc,brev"></ana><ana lex="временный" gr="A,du,m,nom,brev"></ana><ana lex="временный" gr="A,pl,n,acc,brev"></ana><ana lex="временный" gr="A,pl,n,nom,brev"></ana><ana lex="временный" gr="A,sg,f,nom,brev"></ana><ana lex="временный" gr="A,sg,m,acc,brev,anim"></ana><ana lex="временный" gr="A,sg,m,gen,brev"></ana><ana lex="временный" gr="A,sg,n,gen,brev"></ana><ana lex="время" gr="S,n,pl,acc"></ana><ana lex="время" gr="S,n,pl,nom"></ana>времена</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>и</w>
+<w><ana lex="лѣтати" gr="V,indic,aor,sg,2p"></ana><ana lex="лѣтати" gr="V,indic,aor,sg,3p"></ana><ana lex="лѣто" gr="S,n,pl,acc"></ana><ana lex="лѣто" gr="S,n,pl,nom"></ana><ana lex="лѣто" gr="S,n,sg,gen"></ana>лѣта</w>
+<w>.</w>
+<w><ana lex="гробъ" gr="S,m,sg,acc"></ana><ana lex="гробъ" gr="S,m,sg,nom"></ana><ana lex="гробъ" gr="S,m,sg,voc"></ana>гробъ</w>
+<w><ana lex="оно" gr="SPRO,sg,acc"></ana><ana lex="оно" gr="SPRO,sg,gen"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,gen"></ana>его</w>
+<w><ana lex="у" gr="PR"></ana>ѹ</w>
+<w><ana lex="мы" gr="SPRO,pl,acc"></ana><ana lex="мы" gr="SPRO,pl,gen"></ana><ana lex="мы" gr="SPRO,pl,loc"></ana>насъ</w>
+<w><ana lex=".и." gr="NUM"></ana><ana lex="и" gr="CONJ"></ana><ana lex="она" gr="SPRO,du,acc"></ana><ana lex="она" gr="SPRO,du,nom"></ana><ana lex="оно" gr="SPRO,du,acc"></ana><ana lex="оно" gr="SPRO,du,nom"></ana><ana lex="онъ" gr="SPRO,pl,nom"></ana><ana lex="онъ" gr="SPRO,sg,acc"></ana><ana lex="онъ" gr="SPRO,sg,nom"></ana>і</w>
+<w><ana lex="передъ" gr="PR"></ana><ana lex="предъ" gr="PR"></ana>пред</w>
+<w>нами</w>
+<w><ana lex="быти" gr="SPRO,indic,praes,sg,3p"></ana><ana lex="ясти" gr="V,ipf,intran,med,indic,praes,sg,3p"></ana><ana lex="ясти" gr="V,ipf,intran,med,inf"></ana><ana lex="ѣсти" gr="V,ipf,tran,indic,praes,sg,3p"></ana><ana lex="ѣсти" gr="V,ipf,tran,inf"></ana>есть</w>
+<w>.</w>
+<w></w>
