@@ -23,7 +23,7 @@ dictReplacements = {
                        'ꙋ': 'у',
                        'ꙗ': 'я',
                        'ѧ': 'я',
-                       'ѹ': 'у'
+                       'ѹ': 'у',
                     }
 rxYer = re.compile('([цкнгшщзхфвпрлджчсмтб])(ь|ъ)([цкнгшщзхфвпрлджчсмтб])')
 rxYu = re.compile('([уеыаоэяию])(у)')
@@ -84,3 +84,5 @@ def begend_new(word):
     if rxEndCons.search(word) is not None:
         word += 'ъ'
     return word
+
+print(normalize_word('здравствуи'))
